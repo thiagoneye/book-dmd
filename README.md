@@ -1,2 +1,3 @@
-# book-dynamic_mode_decompositon
+# book-dmd
+
 Studies on Dynamic Mode Decomposition (DMD).
